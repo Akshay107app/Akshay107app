@@ -8,11 +8,11 @@
 - 💞️ I’m looking to collaborate on projects and experiences on Data and Software development applications.
 - 📫 How to reach me at appaniakshayvag7@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...   : Did you know that 90% of the world's data has been generated in just the last two years? Data scientists often joke that they spend 80% of their time cleaning data, and the other 20% complaining about it!
+- ⚡ Fun fact   : Did you know that 90% of the world's data has been generated in just the last two years? Data scientists often joke that they spend 80% of their time cleaning data, and the other 20% complaining about it!
 
 ![Screenshot 2024-08-22 100744](https://github.com/user-attachments/assets/1787f848-45b5-4061-9817-2fc99f3df020)
 
-<!---
+<!---  
 Akshay107app/Akshay107app is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
